@@ -7,6 +7,8 @@ SproutMe assigns work continuously through its private Jira project rather than 
 
 ## YouTube link:
 
+[Sprint 1 presentation and demo video](https://youtu.be/OvgEqOjcPIE)
+
 ## What's New (User Facing)
 
 - An obsolete Profile menu option was removed, so the menu no longer points users toward an unsupported action. The related Jira item is marked Done and its code was merged.
