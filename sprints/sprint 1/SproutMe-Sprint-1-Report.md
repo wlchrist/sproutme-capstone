@@ -1,9 +1,9 @@
-# Sprint 1 Report (Project start–October 11, 2026)
+# Sprint 1 Report (September 23–October 11, 2026)
 
 **Project:** SproutMe capstone  
 **Team:** Seth Aguilar, Warren Christian, Quinnlan McCarthy, Itay Shemesh
 
-SproutMe assigns work continuously through its private Jira project rather than in fixed sprints. For this course report, “Sprint 1” means the work assigned from the start of our capstone engagement through October 11, 2026. **[CONFIRM: replace “Project start” with the exact start date before submission.]** Statuses below are a snapshot, not a claim that every change is deployed.
+SproutMe assigns work continuously through its private Jira project rather than in fixed sprints. For this course report, “Sprint 1” covers documented team work from September 23 through October 11, 2026. September 23 is the date of the earliest team pull requests used as evidence in this report. Statuses below are a snapshot, not a claim that every change is deployed.
 
 ## YouTube link:
 
